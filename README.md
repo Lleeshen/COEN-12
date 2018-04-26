@@ -14,4 +14,4 @@ Project 4: Implement Set ADT with Hashing by Chaining (list.c and set.c)
 
 Project 5: Implement Priority Queue ADT with array representation of Heap (pqueue.c) and use heap ideas for Huffman coding (huffman.c)
 
-Project 6: Implement Set ADT with Hash Table with Linear Probing; Returns sorted list (difference from Project 4); Uses Quicksort algorithm
+Project 6: Implement Set ADT with Hash Table with Linear Probing; Returns sorted list (difference from Project 4); Uses Quicksort algorithm (table.c)
